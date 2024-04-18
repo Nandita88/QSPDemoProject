@@ -26,6 +26,11 @@ public class BrokenLink {
 	    	HttpURLConnection httpconnection = (HttpURLConnection)url.openConnection();
 	    	int statusCode = httpconnection.getResponseCode();
 
+
+		    //pagal Abhay :)
+
+
+		    
 	}
 	}
 }
